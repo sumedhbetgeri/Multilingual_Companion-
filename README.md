@@ -31,7 +31,7 @@ Most everyday translation workflows require switching between multiple tools —
 There is a need for a **single, offline-launchable desktop tool** that:
 
 - Translates text between a wide range of languages instantly.
-- Speaks the translation aloud in the target language’s pronunciation.
+- Speaks the translation aloud in the target language's pronunciation.
 - Stays simple enough for non-technical users to operate.
 
 ---
@@ -51,7 +51,7 @@ The result is a focused, single-screen application where a user enters text, pic
 ## ✨ Key Features
 
 - **🌐 100+ Language Support** — Source and target languages dynamically populated from the `googletrans.LANGUAGES` dictionary.
-- **🔊 Integrated Text-to-Speech** — Translated text is auto-rendered as speech in the destination language’s native accent.
+- **🔊 Integrated Text-to-Speech** — Translated text is auto-rendered as speech in the destination language's native accent.
 - **⚡ Real-Time Translation Pipeline** — Translation, MP3 generation, and audio playback all execute in a single click.
 - **🪟 Clean Tkinter GUI** — Color-themed, dual-pane layout with source/destination text areas and dropdown language selectors.
 - **🔁 Session Reset Flow** — Built-in dialog asks the user whether to continue or exit, cleanly stopping audio and clearing buffers.
@@ -118,7 +118,7 @@ The result is a focused, single-screen application where a user enters text, pic
 ### Prerequisites
 - Python 3.8 or higher
 - pip
-- An active internet connection (googletrans and gTTS hit Google’s endpoints)
+- An active internet connection (googletrans and gTTS hit Google's endpoints)
 
 ### Setup
 
@@ -162,16 +162,6 @@ python main.py
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots/GIFs into a `/screenshots` folder and reference them here._
-
-| Main Interface | Translation in Action | Audio Playback |
-|---|---|---|
-| ![Main UI](screenshots/main_ui.png) | ![Translation](screenshots/translation_demo.png) | ![Audio](screenshots/audio_playback.gif) |
-
----
-
 ## 🔭 Future Improvements
 
 - **Speech-to-Text Input** — integrate `SpeechRecognition` so users can speak the source text instead of typing.
@@ -207,10 +197,6 @@ multilingual-companion/
 ├── README.md                # Project documentation
 ├── LICENSE                  # MIT License
 ├── .gitignore               # Ignored files (venv, __pycache__, *.mp3)
-├── screenshots/             # UI screenshots and demo GIFs
-│   ├── main_ui.png
-│   ├── translation_demo.png
-│   └── audio_playback.gif
 └── docs/                    # Supplementary documentation
     └── architecture.md
 ```
@@ -227,7 +213,7 @@ Contributions, issues, and feature requests are welcome.
 4. Push to the branch (`git push origin feature/awesome-feature`)
 5. Open a Pull Request
 
-For major changes, please open an issue first to discuss what you’d like to change.
+For major changes, please open an issue first to discuss what you'd like to change.
 
 ---
 
@@ -241,7 +227,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **Sumedh Betgeri**
 Computer Science Engineering — KLS Gogte Institute of Technology
-🔗 [LinkedIn](https://linkedin.com/in/sumedhbetgeri) • [GitHub](https://github.com/sumedhbetgeri) • 📧 sumedhbetgeri@gmail.com
+🔗 [LinkedIn](http://www.linkedin.com/in/sumedh-betgeri02) • [GitHub](https://github.com/sumedhbetgeri) • 📧 sumedhbetgeri@gmail.com
 
 ---
 
